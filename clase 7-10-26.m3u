@@ -1,0 +1,890 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skysportsf1.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP SKY SPORTS F1
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1668
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skysportsgolf.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP SKY SPORTS GOLF
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1669
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skysportsmix.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP SKY SPORTS MIX
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1670
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skysportsfootball.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP SKY SPORTS FOOTBALL
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1671
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/sky-sports-premier-league-uk.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP SKY SPORTS PREMIER LEAGUE
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1672
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/sky-sports-cricket-uk.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP SKY SPORTS CRICKET
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1673
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skysportsarena.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP SKY SPORTS ARENA
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1674
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skysportsaction.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP SKY SPORTS ACTION
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1675
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skysportsracing.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP SKY SPORTS RACING
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1676
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skysportsmainevent.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP SKY SPORTS MAIN EVENT
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1677
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP Sky Sports NFL
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1678
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/beinsports.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP BEIN SPORTS 1
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1679
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/beinsports.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP BEIN SPORTS 2
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1680
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/beinsports.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP BEIN SPORTS 4
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1681
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/beinsports.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP BEIN SPORTS 7
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1682
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/eurosport1.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP EUROSPORT 1
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1683
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/eurosport2.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP EUROSPORT 2
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1684
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/eir-sport-1-uk.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP EIR SPORT 1
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1685
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/eir-sport-2-uk.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP EIR SPORT 2
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1686
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/btsport1.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP TNT SPORT 1
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1687
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/btsports2vip.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP TNT SPORT 2
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1688
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/btsport3.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP TNT SPORT 3
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1689
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/premiersports.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP PREMIERE SPORTS 1
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1694
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/premiersports.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP PREMIER SPORTS 2
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1695
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skysportsnews.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP SKY SPORTS NEWS
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1696
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/supersportgolf.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP SUPER SPORT GOLF
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1697
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/supersportvariety4.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP SUPER SPORT VARIETY 4 (MATCH TIME)
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1698
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/supersportcricket.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP SUPER SPORTS CRICKET (MATCH TIME)
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1699
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/supersportrugby.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP SUPERSPORT RUGBY (MATCH TIME)
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1700
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/supersportvariety3.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP SUPER SPORT VARIETY 3 (MATCH TIME)
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1701
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/supersportvariety1.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP SUPER SPORT VARIETY 1 (MATCH TIME)
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1702
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/supersportfootball.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP SUPER SPORTS FOOTBALL (MATCH TIME)
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1703
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/supersportaction.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP SUPER SPORTS ACTION (MATCH TIME)
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1704
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/supersportvariety2.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP SUPER SPORT VARIETY 2 (MATCH TIME)
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1705
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/supersportmotorsport.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP SUPER SPORT MOTORSPORT (MATCH TIME)
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1706
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/supersportgrandstand.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP SUPER SPORTS GRAND STAND (MATCH TIME)
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1707
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/supersportpsl.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP SUPER SPORT PSL (MATCH TIME)
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1708
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/supersportlaliga.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP SUPER SPORTS LALIGA (MATCH TIME)
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1709
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/btsportespn.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP TNT SPORT 4
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1710
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/laligatv.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP LALIGA TV
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1711
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/racing.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP RACING
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1712
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/freesports.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP FREE SPORTS
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1714
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/cartoonito.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP CARTOONITO
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1715
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/cartoonnetwork.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP CARTOON NETWORK
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1716
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/bet.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP BET
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1717
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/mtvclub.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP MTV CLUB
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1718
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/five.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP FIVE
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1719
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/UnitedKingsom.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP H&H
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1720
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/kerrangtv.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP KERRANG!
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1721
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/mtv.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP MTV
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1722
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/mtvbase.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP MTV BASE
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1723
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/mtvclassic.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP MTV CLASSIC
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1724
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/mtvdance.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP MTV DANCE
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1725
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/mtvomg.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP MTV OMG
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1726
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/mtvrocks.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP MTV ROCKS
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1727
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/rteone.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP RTE ONE
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1728
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/rtetwo.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP RTE TWO
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1729
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/sabtv.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP SAB TV
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1730
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/sonychannel.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP SONY CHANNEL
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1731
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/starbharat.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP STAR BHARAT
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1732
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/starztv.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP STARZ TV
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1733
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/stv.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP STV
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1734
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/tg4.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP TG 4
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1735
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/ufcfightpass.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP UFC FIGHT NIGHT PASS
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1736
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/universalchannel.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP UNIVERSAL CHANNEL
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1737
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/utv.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP UTV IRELAND
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1738
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/vh1classic.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP VH1 CLASSIC
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1739
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/viceland.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP VICELAND
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1740
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/zeecinema.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP INDIA ZEE CINEMA
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1741
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/vh1.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP VH1
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1742
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/mtvlive.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP MTV LIVE
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1743
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/sonymoviechannel.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP SONY MOVIE +1
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1744
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/sonymoviesaction.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP SONY MOVIE ACTION
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1745
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/sonymoviechannel.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP SONY MOVIE CHANNEL
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1746
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/tvone.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP TV ONE
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1747
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/virginmedia1.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP VIRGIN MEDIA 1
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1748
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/virginmedia2.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP VIRGIN MEDIA 2
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1749
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/virginmedia3.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP VIRGIN MEDIA 3
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1750
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/bbcscotland.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP BBC SCOTLAND
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1751
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/4music.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP 4MUSIC
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1752
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/zeetv.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP INDIA ZEE TV
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1753
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP BBC FIVE
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1754
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/animalplanet.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP ANIMAL PLANET
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1755
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/discoverychannel.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP DISCOVERY CHANNEL
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1757
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/discoveryhistory.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP DISCOVERY HISTORY
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1758
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/discoveryscience.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP DISCOVERY SCIENCE
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1759
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/discoveryturbo.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP DISCOVERY TURBO
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1760
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/history2.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP HISTORY 2
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1761
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/history.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP HISTORY
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1762
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/horseandcountry.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP HORSE AND COUNTRY
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1763
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/discoveryinvestigation.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP INVESTIGATION DISCOVERY
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1764
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/magictv.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP MAGIC
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1765
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/natgeowild.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP NAT GEO WILD
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1766
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/travelchannel.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP TRAVEL CHANNEL
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1767
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/yesterday.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP YESTERDAY
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1768
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/redbulltv.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP RED BULL
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1769
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/dave.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP DAVE
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1770
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/e-entertainment-uk.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP E!
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1771
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/goldtv.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP GOLD
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1772
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/itv1.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP ITV
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1773
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/itv2.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP ITV2
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1774
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/itv3.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP ITV3
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1775
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/itv4.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP ITV4
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1776
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/syfy.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP SYFY
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1777
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/tlc.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP TLC
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1778
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/watch.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP WATCH
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1779
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/cbsdrama.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP CBS DRAMA
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1780
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/paramountnetwork.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP PARAMOUNT
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1781
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/qvcbeauty.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP QVC BEAUTY
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1782
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/qvcextra.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP QVC EXTRA
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1783
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/qvcstyle.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP QVC STYLE
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1784
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/quest.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP QUEST +1
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1785
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/itvbe.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP ITVBE
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1786
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/blaze.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP BLAZE
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1787
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/dmax.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP DMAX
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1788
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/more4.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP MORE 4
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1789
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/picktv.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP PICK
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1790
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/questred.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP QUEST RED
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1791
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/really.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP REALLY
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1792
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/s4c.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP S4C
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1793
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/4seven.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP 4SEVEN
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1794
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/5star.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP 5STAR
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1795
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/usa.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP 5USA
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1796
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/amc.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP AMC
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1797
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/boxnation.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP BOX NATION
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1798
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/cbsaction.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP CBS ACTION
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1799
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/cbsjustice.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP CBS JUSTICE
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1800
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/cbsreality.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP CBS REALITY
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1801
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/challenge.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP CHALLENGE
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1802
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/channel4.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP CHANNEL 4
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1803
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/channel5.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP CHANNEL 5
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1804
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/comedycentralextra.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP COMEDY CENTRAL EXTRA
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1805
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/comedycentral.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP COMEDY CENTRAL
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1806
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/disneychannel.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP DISNEY CHANNEL
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1807
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/disneyxd.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP DISNEY XD
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1808
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/drama.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP DRAMA
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1809
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/e4.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP E4
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1810
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/foodnetwork.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP FOOD NETWORK
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1811
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/goodfood.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP GOOD FOOD
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1812
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/lifetime.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP LIFE TIME
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1813
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/londonlive.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP LONDON LIVE
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1814
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/5select.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP 5SELECT
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1815
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/disneyjunior.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP DISNEY JUNIOR
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1816
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/nickjrtoo.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP NICK JR TOO
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1817
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/nickjunior.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP NICK JR
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1818
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP W
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1819
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP TOGETHER
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1820
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/abpnews.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP ABP NEWS
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1821
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/b4umovies.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP B4U MOVIES
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1822
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/b4uplus.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP B4U PLUS
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1823
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/chelseatv.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP CHELSEA TV
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1824
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/colors.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP COLORS EUROPE
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1825
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/rishtey.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP RISHTEY
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1826
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/poptv.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP POP
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1827
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/rtejr.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP RTE JR
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1828
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/tinypop.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP TINY POP
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1829
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/bbccbeebies.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP CBEEBIES
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1830
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/babytv.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP BABY TV
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1831
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/boomerang.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP BOOMERANG
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1832
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/citv.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP CITV
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1833
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/cbbc.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP CBBC
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1834
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/film4.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP FILM 4
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1835
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/horrorchannel.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP HORROR CHANNEL
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1836
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skycinemacomedy.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP SKY CINEMA COMEDY
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1837
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/sky-cinema-family-uk.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP SKY CINEMA FAMILY
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1838
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skycinemapremiere.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP SKY CINEMA PREMIERE
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1839
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skycinemasci.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP SKY CINEMA SCI-FI
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1840
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skycinemaselect.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP SKY CINEMA SELECT
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1841
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skycinemashowcase.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP SKY CINEMA SHOWCASE
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1842
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skycinemathriller.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP SKY CINEMA THRILLER
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1843
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skycinemadisney.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP SKY CINEMA DISNEY
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1844
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/sky-cinema-greats-uk.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP SKY CINEMA GREATS
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1845
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skycinemahits.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP SKY CINEMA HITS
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1846
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skycinemaaction.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP SKY CINEMA ACTION
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1847
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skycinemaanimation.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP SKY CINEMA ANIMATION
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1848
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skycinemacrime-thriller.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP SKY CINEMA CRIME & THRILLER
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1849
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skycinemadrama.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP SKY CINEMA DRAMA
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1850
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skycinemamusicals.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP SKY CINEMA MUSICALS
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1851
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skycinemaaction.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP SKY CINEMA ACTION N ADVENTURE
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1852
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/tcm.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP TCM MOVIES
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1853
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/greatmovies.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP GREAT! MOVIES
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1854
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP TALKING PICTURES
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1855
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/france24.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP FRANCE 24
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1856
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/aljazeera.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP AL JAZEERA
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1857
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/bloomberg.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP BLOOMBERG
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1858
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/bbcone.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP BBC ONE
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1859
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/bbc2.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP BBC TWO
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1860
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/bbc3.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP BBC THREE
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1861
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/bbc4.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP BBC FOUR
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1862
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/bbcalba.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP BBC ALBA
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1863
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/bbcnews.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP BBC NEWS
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1864
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/bbcworldnews.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP BBC WORLD NEWS
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1865
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/bbcentertainment.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP BBC ENTERTAINMENT
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1866
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/bbc2.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP BBC TWO ENG
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1867
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP BBC TWO NORTHERN IRELAND
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1868
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/bbctwoscotland.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP BBC TWO (SCOTLAND)
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1869
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/cnbc.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP CNBC
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1870
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/cnn.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP CNN
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1871
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/fox.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP FOX
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1872
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/foxnews.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP FOX NEWS
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1873
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/rtenewsnow.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP RTE NEWS NOW
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1874
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/euronews.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP EURONEWS
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1875
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/rtdocumentary.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP RUSSIA TODAY NEWS
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1876
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skyone.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP SKY 1
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1877
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/sky2.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP SKY 2
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1878
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skycrime.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP SKY CRIME
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1879
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skydocumentaries.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP SKY DOCUMENTARIES
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1880
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skynature.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP SKY NATURE
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1881
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skyarts.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP SKY ARTS
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1882
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skywitness.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP SKY WITNESS
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1883
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skyatlantic.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP SKY ATLANTIC
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1884
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skynews.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP SKY NEWS
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1885
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/attheraces.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP AT THE RACES
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1886
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/eden.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP EDEN
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1887
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/motorstv.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP MOTORS TV
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1888
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/mutv.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP MUTV
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1889
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/liverpoolfc.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP LIVERPOOL FC
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1890
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP ALIBI
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1891
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/espn.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP ESPN
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1892
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/bbcparliament.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP BBC PARLIAMENT
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1893
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/nicktoons.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP NICKTOONS
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1894
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/quest.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP QUEST
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1896
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/rteone.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP RTE 1
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1897
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/rtetwo.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP RTE 2
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1898
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/rtenews.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP RTE NEWS
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1899
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/rtenews.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP RT NEWS
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1900
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/colors.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP COLORS
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1901
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP HOME
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1902
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP CHANNEL AKA
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1903
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/nhkworld.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP NHK WORLD
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1904
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP ALJAZEERA NEWS ENGLISH
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1905
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/roktv.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP ROK TV
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1906
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/zing.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP ZING
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1907
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/viva.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP VIVA
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1908
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/travelxp.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP TRAVEL XP
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1909
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP PBS AMERICA
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1910
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP NOW 90S
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1911
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP NOW 80S
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1912
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP NOW 70S
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1913
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP BRITISH MUSLIM
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1914
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/arydigital.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP ARY DIGITAL
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1915
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/b4umusic.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP B4U MUSIC
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1916
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/UnitedKingsom.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP GB NEWS
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1917
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/geotv.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP GEO TV
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1918
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/hgtv.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP HGTV
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1919
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/humeurope.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP HUM EUROPE
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1920
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/hummasala.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP HUM MASALA
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1921
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/law-and-crime-network-us.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP LAW & CRIMEHD
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1922
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/lovenature.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP LOVE NATURE
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1923
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/mtvhits.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP MTV HITS
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1924
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/mtvmusic.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP MTV MUSIC
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1925
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/natgeo.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP NAT GEO
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1926
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/nickelodeon.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP NICKELODEON
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1927
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/peacetv.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP PEACE TV
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1928
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/sonymax.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP SONY MAX
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1929
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/sonymax2.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP SONY MAX 2
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1930
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/sonysab.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP SONY SAB
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1931
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/showcase.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP SHOWCASE
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1932
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK | ENGLAND VIP", (OFFLINE) UK: Sky News
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1933
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/trtworld.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP TRT WORLD
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1934
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/utv.png" group-title="UK | ENGLAND VIP", (ONLINE) UK: VIP UTV
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/1935
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/daznPdc.png" group-title="UK | ENGLAND VIP", (OFFLINE) UK: VIP DAZN Pdc Darts
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/132308
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telecinco.png" group-title="ES | TOP CANALES VIP", (ONLINE) ES: TELECINCO
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/647
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" group-title="ES | TOP CANALES VIP", (ONLINE) ES: LA 1
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/648
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_2.png" group-title="ES | TOP CANALES VIP", (ONLINE) ES: LA 2
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/649
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Antena_3.png" group-title="ES | TOP CANALES VIP", (ONLINE) ES: ANTENA 3
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/646
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="ES | TOP CANALES VIP", (ONLINE) ES: LA SEXTA
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/650
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Cuatro.png" group-title="ES | TOP CANALES VIP", (ONLINE) ES: CUATRO
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/651
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Factoria_de_Ficcion.png" group-title="ES | TOP CANALES VIP", (ONLINE) ES: FACTORÍA DE FICCIÓN
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/652
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nova.png" group-title="ES | TOP CANALES VIP", (ONLINE) ES: NOVA
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/653
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Energy.png" group-title="ES | TOP CANALES VIP", (ONLINE) ES: ENERGY
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/654
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/TRECE.png" group-title="ES | TOP CANALES VIP", (ONLINE) ES: TRECE
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/655
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Mega.png" group-title="ES | TOP CANALES VIP", (ONLINE) ES: MEGA
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/753
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/BuenViaje.png" group-title="ES | TOP CANALES VIP", (ONLINE) ES: M+ BUEN VIAJE
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/60251
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/cmm.png" group-title="ES | TOP CANALES VIP", (ONLINE) ES: CASTILLA LA MANCHA
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/132291
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP", (ONLINE) ES: (HD) DAZN LALIGA
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/243
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP", (ONLINE) ES: (HD REPUESTO) DAZN LALIGA
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/244
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP", (ONLINE) ES: (HD REPUESTO2) DAZN LALIGA
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/147167
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP", (ONLINE) ES: (FHD) DAZN LALIGA
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/97138
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP", (ONLINE) ES: (FHD REPUESTO) DAZN LALIGA
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/97193
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA VIP", (ONLINE) ES: (HD) M+ LALIGA
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/252
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA VIP", (OFFLINE) ES: (HD REPUESTO) M+ LALIGA
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/253
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA VIP", (ONLINE) ES: (FHD) M+ LALIGA
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/254
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA VIP", (ONLINE) ES: (FHD REPUESTO) M+ LALIGA
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/97192
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_COPA_DEL_REY.png" group-title="ES | LALIGA VIP", (OFFLINE) ES: M+ COPA DEL REY
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/130169
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/laligabares.png" group-title="ES | LALIGA VIP", (OFFLINE) ES: (FHD) M+ LALIGA TV BAR
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/283
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png" group-title="ES | LALIGA VIP", (ONLINE) ES: LALIGA TV HYPERMOTION
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/246
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_2.png" group-title="ES | LALIGA VIP", (ONLINE) ES: LALIGA TV HYPERMOTION 2
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/634
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_3.png" group-title="ES | LALIGA VIP", (ONLINE) ES: LALIGA TV HYPERMOTION 3
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/635
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png" group-title="ES | LALIGA VIP", (ONLINE) ES: DAZN LALIGA 2
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/128942
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png" group-title="ES | LALIGA VIP", (OFFLINE) ES: (FHD) M+ LALIGA TV 2
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/255
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png" group-title="ES | LALIGA VIP", (OFFLINE) ES: (FHD) M+ LALIGA TV 3
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/256
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_4_NEW.png" group-title="ES | LALIGA VIP", (OFFLINE) ES: M+ LALIGA TV 4
+http://s99.rpyepsv.top:8080/VIP01511760536773102/3cba22bc4d7f/56470
+
